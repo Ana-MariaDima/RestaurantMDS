@@ -11804,11 +11804,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Downloads\\ProiectMDS (1)\\ProiectMDS\\ProiectMDS\\ProiectMDS.csproj",
+      "projectUniqueName": "D:\\ANA\\FACULTATE\\Anul 3\\Semestrul 2\\Metode de Dezvoltare Software\\RestaurantMDS\\ProiectMDS\\ProiectMDS\\ProiectMDS.csproj",
       "projectName": "ProiectMDS",
-      "projectPath": "D:\\Downloads\\ProiectMDS (1)\\ProiectMDS\\ProiectMDS\\ProiectMDS.csproj",
+      "projectPath": "D:\\ANA\\FACULTATE\\Anul 3\\Semestrul 2\\Metode de Dezvoltare Software\\RestaurantMDS\\ProiectMDS\\ProiectMDS\\ProiectMDS.csproj",
       "packagesPath": "C:\\Users\\Ana Dima\\.nuget\\packages\\",
-      "outputPath": "D:\\Downloads\\ProiectMDS (1)\\ProiectMDS\\ProiectMDS\\obj\\",
+      "outputPath": "D:\\ANA\\FACULTATE\\Anul 3\\Semestrul 2\\Metode de Dezvoltare Software\\RestaurantMDS\\ProiectMDS\\ProiectMDS\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
