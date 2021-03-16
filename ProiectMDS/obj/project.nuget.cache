@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "abDc5h/k1G6beGspVef45xX4no0x4kWdQDpYi7Gnuau+1dp8csTrQQ+RyBehT1iJvmrp1QT2hhBXMJTUOZH3tg==",
+  "dgSpecHash": "wo/U88N8F1o+uaHQzyrgDji7JySEP++cMSWrNKaW1zQ2o5K8kyDMP6MUJdQZt4x4o4w6lynxXvH0Jyeq1oy0Nw==",
   "success": true,
-  "projectFilePath": "D:\\Downloads\\ProiectMDS (1)\\ProiectMDS\\ProiectMDS\\ProiectMDS.csproj",
+  "projectFilePath": "D:\\ANA\\FACULTATE\\Anul 3\\Semestrul 2\\Metode de Dezvoltare Software\\RestaurantMDS\\ProiectMDS\\ProiectMDS\\ProiectMDS.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ana Dima\\.nuget\\packages\\microsoft.aspnet.webapi.client\\5.2.6\\microsoft.aspnet.webapi.client.5.2.6.nupkg.sha512",
     "C:\\Users\\Ana Dima\\.nuget\\packages\\microsoft.aspnetcore\\2.1.1\\microsoft.aspnetcore.2.1.1.nupkg.sha512",
