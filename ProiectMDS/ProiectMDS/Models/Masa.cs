@@ -11,6 +11,8 @@ namespace ProiectMDS.ProiectMDS.Models
 
         public int NrLocuri { get; set; }
         public string Locatie { get; set; }
+		
+		
 
 
 
