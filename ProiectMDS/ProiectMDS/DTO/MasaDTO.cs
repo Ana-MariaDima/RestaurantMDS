@@ -3,14 +3,12 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace ProiectMDS.ProiectMDS.Models
+namespace ProiectMDS.ProiectMDS.DTO
 {
-    public class Masa
+    public class MasaDTO
     {
-        public int Id { get; set; }
-
         public int NrLocuri { get; set; }
         public string Locatie { get; set; }
-		
+
     }
 }

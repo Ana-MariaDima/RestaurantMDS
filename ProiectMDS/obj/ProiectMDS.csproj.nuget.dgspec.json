@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\ANA\\FACULTATE\\Anul 3\\Semestrul 2\\Metode de Dezvoltare Software\\RestaurantMDS\\ProiectMDS\\ProiectMDS\\ProiectMDS.csproj": {}
+    "C:\\Users\\Enache\\Desktop\\New folder\\RestaurantMDS\\ProiectMDS\\ProiectMDS.csproj": {}
   },
   "projects": {
-    "D:\\ANA\\FACULTATE\\Anul 3\\Semestrul 2\\Metode de Dezvoltare Software\\RestaurantMDS\\ProiectMDS\\ProiectMDS\\ProiectMDS.csproj": {
+    "C:\\Users\\Enache\\Desktop\\New folder\\RestaurantMDS\\ProiectMDS\\ProiectMDS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ANA\\FACULTATE\\Anul 3\\Semestrul 2\\Metode de Dezvoltare Software\\RestaurantMDS\\ProiectMDS\\ProiectMDS\\ProiectMDS.csproj",
+        "projectUniqueName": "C:\\Users\\Enache\\Desktop\\New folder\\RestaurantMDS\\ProiectMDS\\ProiectMDS.csproj",
         "projectName": "ProiectMDS",
-        "projectPath": "D:\\ANA\\FACULTATE\\Anul 3\\Semestrul 2\\Metode de Dezvoltare Software\\RestaurantMDS\\ProiectMDS\\ProiectMDS\\ProiectMDS.csproj",
-        "packagesPath": "C:\\Users\\Ana Dima\\.nuget\\packages\\",
-        "outputPath": "D:\\ANA\\FACULTATE\\Anul 3\\Semestrul 2\\Metode de Dezvoltare Software\\RestaurantMDS\\ProiectMDS\\ProiectMDS\\obj\\",
+        "projectPath": "C:\\Users\\Enache\\Desktop\\New folder\\RestaurantMDS\\ProiectMDS\\ProiectMDS.csproj",
+        "packagesPath": "C:\\Users\\Enache\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Enache\\Desktop\\New folder\\RestaurantMDS\\ProiectMDS\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Ana Dima\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Enache\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -89,7 +86,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.104\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }

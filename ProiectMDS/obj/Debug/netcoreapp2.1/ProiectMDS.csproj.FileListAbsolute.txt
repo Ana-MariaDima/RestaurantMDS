@@ -1,25 +1,16 @@
-C:\Users\User\source\repos\ProiectMDS\ProiectMDS\bin\Debug\netcoreapp2.1\ProiectMDS.deps.json
-C:\Users\User\source\repos\ProiectMDS\ProiectMDS\bin\Debug\netcoreapp2.1\ProiectMDS.runtimeconfig.json
-C:\Users\User\source\repos\ProiectMDS\ProiectMDS\bin\Debug\netcoreapp2.1\ProiectMDS.runtimeconfig.dev.json
-C:\Users\User\source\repos\ProiectMDS\ProiectMDS\bin\Debug\netcoreapp2.1\ProiectMDS.dll
-C:\Users\User\source\repos\ProiectMDS\ProiectMDS\obj\Debug\netcoreapp2.1\ProiectMDS.csprojAssemblyReference.cache
-C:\Users\User\source\repos\ProiectMDS\ProiectMDS\obj\Debug\netcoreapp2.1\ProiectMDS.csproj.CoreCompileInputs.cache
-C:\Users\User\source\repos\ProiectMDS\ProiectMDS\obj\Debug\netcoreapp2.1\ProiectMDS.RazorAssemblyInfo.cache
-C:\Users\User\source\repos\ProiectMDS\ProiectMDS\obj\Debug\netcoreapp2.1\ProiectMDS.RazorAssemblyInfo.cs
-C:\Users\User\source\repos\ProiectMDS\ProiectMDS\obj\Debug\netcoreapp2.1\ProiectMDS.AssemblyInfoInputs.cache
-C:\Users\User\source\repos\ProiectMDS\ProiectMDS\obj\Debug\netcoreapp2.1\ProiectMDS.AssemblyInfo.cs
-C:\Users\User\source\repos\ProiectMDS\ProiectMDS\obj\Debug\netcoreapp2.1\ProiectMDS.TagHelpers.input.cache
-C:\Users\User\source\repos\ProiectMDS\ProiectMDS\obj\Debug\netcoreapp2.1\ProiectMDS.TagHelpers.output.cache
-C:\Users\User\source\repos\ProiectMDS\ProiectMDS\obj\Debug\netcoreapp2.1\ProiectMDS.RazorCoreGenerate.cache
-C:\Users\User\source\repos\ProiectMDS\ProiectMDS\obj\Debug\netcoreapp2.1\Razor\Pages\About.g.cshtml.cs
-C:\Users\User\source\repos\ProiectMDS\ProiectMDS\obj\Debug\netcoreapp2.1\Razor\Pages\Contact.g.cshtml.cs
-C:\Users\User\source\repos\ProiectMDS\ProiectMDS\obj\Debug\netcoreapp2.1\Razor\Pages\Error.g.cshtml.cs
-C:\Users\User\source\repos\ProiectMDS\ProiectMDS\obj\Debug\netcoreapp2.1\Razor\Pages\Index.g.cshtml.cs
-C:\Users\User\source\repos\ProiectMDS\ProiectMDS\obj\Debug\netcoreapp2.1\Razor\Pages\Privacy.g.cshtml.cs
-C:\Users\User\source\repos\ProiectMDS\ProiectMDS\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_CookieConsentPartial.g.cshtml.cs
-C:\Users\User\source\repos\ProiectMDS\ProiectMDS\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_Layout.g.cshtml.cs
-C:\Users\User\source\repos\ProiectMDS\ProiectMDS\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_ValidationScriptsPartial.g.cshtml.cs
-C:\Users\User\source\repos\ProiectMDS\ProiectMDS\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewImports.g.cshtml.cs
-C:\Users\User\source\repos\ProiectMDS\ProiectMDS\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewStart.g.cshtml.cs
-C:\Users\User\source\repos\ProiectMDS\ProiectMDS\obj\Debug\netcoreapp2.1\ProiectMDS.RazorTargetAssemblyInfo.cache
-C:\Users\User\source\repos\ProiectMDS\ProiectMDS\obj\Debug\netcoreapp2.1\ProiectMDS.RazorTargetAssemblyInfo.cs
+C:\Users\Enache\Desktop\New folder\RestaurantMDS\ProiectMDS\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\Enache\Desktop\New folder\RestaurantMDS\ProiectMDS\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Enache\Desktop\New folder\RestaurantMDS\ProiectMDS\bin\Debug\netcoreapp2.1\ProiectMDS.deps.json
+C:\Users\Enache\Desktop\New folder\RestaurantMDS\ProiectMDS\bin\Debug\netcoreapp2.1\ProiectMDS.runtimeconfig.json
+C:\Users\Enache\Desktop\New folder\RestaurantMDS\ProiectMDS\bin\Debug\netcoreapp2.1\ProiectMDS.runtimeconfig.dev.json
+C:\Users\Enache\Desktop\New folder\RestaurantMDS\ProiectMDS\bin\Debug\netcoreapp2.1\ProiectMDS.dll
+C:\Users\Enache\Desktop\New folder\RestaurantMDS\ProiectMDS\bin\Debug\netcoreapp2.1\ProiectMDS.pdb
+C:\Users\Enache\Desktop\New folder\RestaurantMDS\ProiectMDS\obj\Debug\netcoreapp2.1\ProiectMDS.AssemblyInfoInputs.cache
+C:\Users\Enache\Desktop\New folder\RestaurantMDS\ProiectMDS\obj\Debug\netcoreapp2.1\ProiectMDS.AssemblyInfo.cs
+C:\Users\Enache\Desktop\New folder\RestaurantMDS\ProiectMDS\obj\Debug\netcoreapp2.1\ProiectMDS.csproj.CoreCompileInputs.cache
+C:\Users\Enache\Desktop\New folder\RestaurantMDS\ProiectMDS\obj\Debug\netcoreapp2.1\ProiectMDS.RazorAssemblyInfo.cache
+C:\Users\Enache\Desktop\New folder\RestaurantMDS\ProiectMDS\obj\Debug\netcoreapp2.1\ProiectMDS.RazorAssemblyInfo.cs
+C:\Users\Enache\Desktop\New folder\RestaurantMDS\ProiectMDS\obj\Debug\netcoreapp2.1\ProiectMDS.RazorTargetAssemblyInfo.cache
+C:\Users\Enache\Desktop\New folder\RestaurantMDS\ProiectMDS\obj\Debug\netcoreapp2.1\ProiectMDS.dll
+C:\Users\Enache\Desktop\New folder\RestaurantMDS\ProiectMDS\obj\Debug\netcoreapp2.1\ProiectMDS.pdb
+C:\Users\Enache\Desktop\New folder\RestaurantMDS\ProiectMDS\obj\Debug\netcoreapp2.1\ProiectMDS.genruntimeconfig.cache
